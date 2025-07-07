@@ -42,7 +42,7 @@ main
 
 .card-info .category
 {
-  font-family: Montserrat;
+  font-family: Montserrat,Arial, Helvetica, sans-serif;
   font-size: 12px;
   font-weight: 400;
   color: #6C7289;
@@ -51,7 +51,7 @@ main
 
 .card-info .title
 {
-  font-family: Fraunces;
+  font-family: Fraunces,Arial, Helvetica, sans-serif;
   font-size: 32px;
   font-weight: 700;
   color: black;
@@ -62,7 +62,7 @@ main
 {
 
   color: #6C7289;
-  font-family: Montserrat;
+  font-family: Montserrat,Arial, Helvetica, sans-serif;
   font-size: 14px;
   margin-top: 24px;
 
@@ -78,7 +78,7 @@ main
 {
   color: #3D8168;
   font-weight: 700;
-  font-family: Fraunces;
+  font-family: Fraunces,Arial, Helvetica, sans-serif;
   font-size: 32px;
   margin-right: 16px;
 }
@@ -87,7 +87,7 @@ main
 {
 
   text-decoration: line-through;
-  font-family: Montserrat;
+  font-family: Montserrat,Arial, Helvetica, sans-serif;
   font-size: 13px;
 
 }
